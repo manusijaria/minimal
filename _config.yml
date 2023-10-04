@@ -1,6 +1,20 @@
-title: Manu Sijaria
+title: <p align="center"> Manu Sijaria </p>
 logo: /assets/img/IMG.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/manu-sijaria/">LinkedIn</a> |
+  <a href="https://github.com/manusijaria">GitHub</a>
+  
+  <br>   
+  I'm working on Lead Data Engineering, AWS Cloud , Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in Data Engineering Domain 
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
