@@ -6,8 +6,10 @@ description:
   <a href="pdf/resume.pdf">Resume</a> |
   <a href="https://www.linkedin.com/in/manu-sijaria/">LinkedIn</a> |
   <a href="https://github.com/manusijaria">GitHub</a>
+  <br>
+  Hello
+  </br>
   </p>
-
 
 
 theme: jekyll-theme-minimal
